@@ -2,9 +2,13 @@
 
 from flask import Flask, request, jsonify
 import requests
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 app = Flask(__name__)
-API_KEY = '0f1668dbad7345958c0eebd73784b93d'
+API_KEY = os.getenv('API_KEY')
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
