@@ -1,9 +1,9 @@
-# HeyTaniya – Telegram Currency Converter Chatbot 💱🤖
+# Forexbot – Telegram Currency Converter Chatbot 💱🤖
 
-HeyTaniya is a smart currency converter chatbot built using Python, Flask, Dialogflow, and the Telegram Bot API. It allows users to perform real-time currency conversions directly within the Telegram app using simple natural language queries.
+Forexbot is a smart currency converter chatbot built using Python, Flask, Dialogflow, and the Telegram Bot API. It allows users to perform real-time currency conversions directly within the Telegram app using simple natural language queries.
 
 ## 🔗 Try it out
-👉 [HeyTaniya on Telegram](https://t.me/HeyTaniyaBot)
+👉 [Forexbot on Telegram](https://t.me/HeyTaniyaBot)
 
 ---
 
