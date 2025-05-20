@@ -33,5 +33,5 @@ Forexbot is a smart currency converter chatbot built using Python, Flask, Dialog
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/heytaniya-bot.git
-cd heytaniya-bot
+git clone https://github.com/yourusername/Forexbot-bot.git
+cd Forexbot-bot
