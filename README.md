@@ -1,6 +1,6 @@
 # CurrencySwift – Telegram Currency Converter Chatbot 💱🤖
 
-Forexbot is a smart currency converter chatbot built using Python, Flask, Dialogflow, and the Telegram Bot API. It allows users to perform real-time currency conversions directly within the Telegram app using simple natural language queries.
+CurrencySwift is a smart currency converter chatbot built using Python, Flask, Dialogflow, and the Telegram Bot API. It allows users to perform real-time currency conversions directly within the Telegram app using simple natural language queries.
 
 ## 🔗 Try it out
 👉 [CurrencySwift on Telegram](https://web.telegram.org/k/#@CurrencySwiftBot))
