@@ -28,10 +28,3 @@ CurrencySwift is a smart currency converter chatbot built using Python, Flask, D
 - **CurrencyFreaks API** – Live exchange rate data
 
 ---
-
-## 🧪 Setup Instructions
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/Forexbot-bot.git
-cd Forexbot-bot
